@@ -1,4 +1,5 @@
--- Project created using SQL Server functions; database from W3Schools (https://www.w3schools.com/sql/trysqlserver.asp?filename=trysql_func_sqlserver_month)
+-- Project created using SQL Server functions 
+-- Database from W3Schools (https://www.w3schools.com/sql/)
 -- Objective: create Cohort Analysis using the Orders table (dates from aug 96 to nov 96)
 
 With customerorders as -- create table with customer ID and date of each order 
