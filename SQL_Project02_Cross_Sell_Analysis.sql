@@ -1,3 +1,6 @@
+-- Database from W3Schools (https://www.w3schools.com/sql/)
+-- Objective: create matrix showing which product categories are usually bought together
+
 With tabela01 as
   (
   SELECT o.orderid, c.categoryname
